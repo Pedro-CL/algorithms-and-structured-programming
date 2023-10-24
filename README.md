@@ -4,7 +4,7 @@ Este é o meu espaço de aprendizado onde compartilho o que estou descobrindo em
 
 ## O que você encontrará aqui
 
-- 📔 Notas de aula.
+- 📝 Notas de aula.
 - 💻 Exercícios práticos.
 
 ## Objetivos
