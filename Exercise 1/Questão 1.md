@@ -1,4 +1,6 @@
-### 1. Criar um algoritmos que apresente um cadastro de informações. O cadastro deverá conter os seguintes campos:
+## Atividade Variáveis
+
+### 01. Criar um algoritmos que apresente um cadastro de informações. O cadastro deverá conter os seguintes campos:
 
 * Nome 
 
