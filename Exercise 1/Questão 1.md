@@ -1,22 +1,22 @@
 ### 1. Criar um algoritmos que apresente um cadastro de informações. O cadastro deverá conter os seguintes campos:
 
-a. Nome 
+* Nome 
 
-b. Idade
+* Idade
 
-c. Matricula
+* Matricula
 
-e. Endereço
+* Endereço
+ 
+* Curso
 
-f. Curso
+* Período
 
-g. Período
+* Disciplinas
 
-h. Disciplinas
+* Valor da mensalidade
 
-g. Valor da mensalidade
-
-A apresentação deverá estar formatada adequadamente.
+### ps: a apresentação deverá estar formatada adequadamente.
 
 
   
