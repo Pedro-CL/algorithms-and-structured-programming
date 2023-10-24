@@ -1,6 +1,6 @@
 # Aprendizado Algoritmo Programação Estruturada
 
-Este é o meu espaço de aprendizado onde compartilho o que estou descobrindo em meu curso de Algoritmos e Programação Estruturada na Universidade Católica de Brasília (UCB).
+Este é o meu espaço de aprendizado onde acompanho o meu progresso e compartilho o que estou descobrindo em meu curso de Algoritmos e Programação Estruturada na Universidade Católica de Brasília (UCB).
 
 ## O que você encontrará aqui
 
