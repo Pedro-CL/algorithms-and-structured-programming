@@ -1,6 +1,9 @@
 ## Atividade Operadores Relacionais
 
 1. Leia a idade e imprima se a pessoa é maior.
+
 2. Leia o salário e imprima se ganha mais que o mínimo.
+
 3. Leia a altura e imprima se é maior que 1.8m.
+
 4. Leia o peso e imprima se é menor que 60kg.
