@@ -11,14 +11,13 @@
 
 9. Uma empresa decide dar um aumento aos seus funcionários de acordo com uma tabela que considera o salario atual e o tempo de serviço de cada funcionário. Os funcionários com menor salario terão um aumento proporcionalmente maior do que os funcionários  com um salario maior, e conforme o tempo de serviço na empresa, cada funcionário irá receber um bônus adicional de salário. Faça um programa que leia:
 
-- o valor do salario atual do funcionário; 
-- o tempo de serviço desse funcionário na empresa (número de anos de trabalho na empresa).
+   - o valor do salario atual do funcionário; 
+   - o tempo de serviço desse funcionário na empresa (número de anos de trabalho na empresa).
 
 Use as tabelas abaixo para calcular o salario reajustado deste funcionário e imprima o valor do salario final reajustado, ou uma mensagem caso o funcionário não tenha direito a nenhum aumento. 
+![image_20230828115640](https://github.com/pedro-CL/APE/assets/82902852/1e65cdcd-ed5e-4c21-8498-fc1909a0bb1c)
 
-10. Calcule as raízes da equação de 2º grau. Lembrando que:
-
-
+10. Calcule as raízes da equaçãode 2º grau. Lembrando que:
 
 A varável a tem que ser diferente de zero. Caso seja igual, imprima a mensagem “Não e equação de segundo grau”. 
 
