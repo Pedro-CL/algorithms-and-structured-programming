@@ -18,15 +18,14 @@ Use as tabelas abaixo para calcular o salario reajustado deste funcionário e im
 
 <div align="center">
 
-| First Header  | Second Header | Second Header | Second Header |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Salário Atual     | Reajuste(%)   | Tempo de Serviço | Bônus         |
+| -------------     | ------------- | -------------    | ------------- |
+| Até 500           | 25%           | Abaixo de 1 ano  | Sem bônus     |
+| Até 1000,00       | 20%           | De 1 a 3 anos    | 100,00        |
+| Até 1500,00       | 15%           | De 4 a 6 anos    | 200,00        |
+| Até 2000,00       | 10%           | De 7 a 10 anos   | 300,00        |
+| Acima de 2000,00  | Sem ajuste    | Mais de 10 anos  | 500,00        |
 
-  <img alt="" src="https://github.com/pedro-CL/APE/assets/82902852/491d599f-1a00-47c5-afeb-122c5fd05947">
 </div>
 
 10. Calcule as raízes da equaçãode 2º grau. Lembrando que:
