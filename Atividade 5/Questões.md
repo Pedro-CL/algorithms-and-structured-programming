@@ -15,9 +15,25 @@
    - o tempo de serviço desse funcionário na empresa (número de anos de trabalho na empresa).
 
 Use as tabelas abaixo para calcular o salario reajustado deste funcionário e imprima o valor do salario final reajustado, ou uma mensagem caso o funcionário não tenha direito a nenhum aumento. 
-![image_20230828115640](https://github.com/pedro-CL/APE/assets/82902852/1e65cdcd-ed5e-4c21-8498-fc1909a0bb1c)
+
+<div align="center">
+
+| First Header  | Second Header | Second Header | Second Header |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
+  <img alt="" src="https://github.com/pedro-CL/APE/assets/82902852/491d599f-1a00-47c5-afeb-122c5fd05947">
+</div>
 
 10. Calcule as raízes da equaçãode 2º grau. Lembrando que:
+
+<div align="center">
+  <img alt="" src="https://github.com/pedro-CL/APE/assets/82902852/575f1c15-2860-499f-94c7-eb6f8a1832b4">
+</div>
 
 A varável a tem que ser diferente de zero. Caso seja igual, imprima a mensagem “Não e equação de segundo grau”. 
 
