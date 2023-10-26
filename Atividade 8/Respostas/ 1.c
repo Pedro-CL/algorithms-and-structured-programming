@@ -7,8 +7,11 @@ int main() {
     char nota;
 
     while (pessoas <= 100) {
-
+        
+        printf("\n\n--------------------------------------------------\n");
         printf("\n\n--------------Pesquisa de Satisfacao--------------\n");
+        printf("\n\n--------------------------------------------------\n");
+
         printf("\n Por favor, informe a sua idade: ");
         scanf("%d", &idade);
 
