@@ -19,20 +19,31 @@ Use as tabelas abaixo para calcular o salario reajustado deste funcionário e im
 <div align="center">
 
 | Salário Atual     | Reajuste(%)   | Tempo de Serviço | Bônus         |
-| -------------     | ------------- | -------------    | ------------- |
+| -------------     | :---:         | -------------    | :---:         |
 | Até 500           | 25%           | Abaixo de 1 ano  | Sem bônus     |
-| Até 1000,00       | 20%           | De 1 a 3 anos    | 100,00        |
-| Até 1500,00       | 15%           | De 4 a 6 anos    | 200,00        |
-| Até 2000,00       | 10%           | De 7 a 10 anos   | 300,00        |
-| Acima de 2000,00  | Sem ajuste    | Mais de 10 anos  | 500,00        |
+| Até 1000,00       | 20%           | De 1 a 3 anos    | R$100,00      |
+| Até 1500,00       | 15%           | De 4 a 6 anos    | R$200,00      |
+| Até 2000,00       | 10%           | De 7 a 10 anos   | R$300,00      |
+| Acima de 2000,00  | Sem ajuste    | Mais de 10 anos  | R$500,00      |
 
-</div>
+<br></div>
 
 10. Calcule as raízes da equaçãode 2º grau. Lembrando que:
 
-<div align="center">
-  <img alt="" src="https://github.com/pedro-CL/APE/assets/82902852/575f1c15-2860-499f-94c7-eb6f8a1832b4">
-</div>
+<div align="center"><br>
+
+   $$
+   x= \frac{-b ±\sqrt{∆}}{2a}
+   $$
+   
+   onde
+   
+   ∆ = b<sup>2</sup>- 4ac
+
+
+   <br>E $`ax`$<sup>2</sup>$` + bx + c = 0`$ representa uma equação do 2° grau.
+      
+<br></div>
 
 A varável a tem que ser diferente de zero. Caso seja igual, imprima a mensagem “Não e equação de segundo grau”. 
 
