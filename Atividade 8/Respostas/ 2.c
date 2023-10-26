@@ -11,6 +11,10 @@ int main() {
 
   for (int num = 0; num <= 6; num++) {
 
+    printf("\n--------------------------------------------------------");
+    printf("\n--------------- Formulário do Elevador -----------------");
+    printf("\n--------------------------------------------------------");
+
     printf("\nDigite qual o elevador voce mais utiliza no predio: ");
     scanf("%c", &elevador);
     __fpurge(stdin);
@@ -30,7 +34,7 @@ int main() {
       N++;
       break;
     default:
-      printf("\nOpcao invalida, tente novamente.");
+      printf("\n************Opcao invalida, tente novamente.************");
     }
 
     // verificar elevador mais usado
@@ -68,7 +72,7 @@ int main() {
       C++;
       break;
     default:
-      printf("\nOpcao invalida, tente novamente");
+      printf("\n************Opcao invalida, tente novamente.************");
     }
     if (A > B && A > C) {
       eMais += A;
@@ -97,10 +101,11 @@ int main() {
   percent = ((float)(pMais - pMenos) / pMais) * 100;
   elevadorMedio = (float)(eMais + eMenos) - 6;
 
+  printf("\n________________________________________________________\n");
   printf("\nMedio: %f", elevadorMedio);
   printf("\nO periodo mais utilizado: %s", periodoMais);
   printf("\nElevador mais frequentado: %s", elevadorMais);
-  printf("\nPorcentual entre o periodo mais usado e o menos usado: %.2f%%",
-         percent);
+  printf("\nPorcentual entre o periodo mais usado e o menos usado: %.2f%%", percent);
   printf("\nPorcentual no total de servicos prestados : %.2f%%", elevadorMedio);
+  
 }
