@@ -1,19 +1,19 @@
 # Continuação do Exercício Anterior
 
-6.Codifique um programa que lê um número inteiro. A seguir o programa deve imprimir uma mensagem para o usuário dizendo se o número digitado é par. Se o número não for par, o programa não deve fazer nada.
+<br>6. Codifique um programa que lê um número inteiro. A seguir o programa deve imprimir uma mensagem para o usuário dizendo se o número digitado é par. Se o número não for par, o programa não deve fazer nada.
 
 
-<br>7.Faça um algoritmo que calcule a media ponderada das notas de 3 provas. A primeira e  a segunda prova tem peso 1 e a terceira tem peso 2.
+<br>7. Faça um algoritmo que calcule a media ponderada das notas de 3 provas. A primeira e  a segunda prova tem peso 1 e a terceira tem peso 2.
 Ao final, mostrar a média do aluno e indicar se o aluno foi aprovado ou reprovado. A nota para aprovação deve ser igual ou  superior a 7,0 pontos. 
 
 
-<br>8.Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se  aposentar. As condições para aposentadoria são:
+<br>8. Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se  aposentar. As condições para aposentadoria são:
    * Ter pelo menos 65 anos.
    * Ou ter trabalhado pelo menos 30 anos.
    * Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos. 
 
 
-<br>9.Uma empresa decide dar um aumento aos seus funcionários de acordo com uma tabela que considera o salario atual e o tempo de serviço de cada funcionário. Os funcionários com menor salario terão um aumento proporcionalmente maior do que os funcionários  com um salario maior, e conforme o tempo de serviço na empresa, cada funcionário irá receber um bônus adicional de salário. Faça um programa que leia:
+<br>9. Uma empresa decide dar um aumento aos seus funcionários de acordo com uma tabela que considera o salario atual e o tempo de serviço de cada funcionário. Os funcionários com menor salario terão um aumento proporcionalmente maior do que os funcionários  com um salario maior, e conforme o tempo de serviço na empresa, cada funcionário irá receber um bônus adicional de salário. Faça um programa que leia:
    * o valor do salario atual do funcionário; 
    * o tempo de serviço desse funcionário na empresa (número de anos de trabalho na empresa).
 
@@ -29,9 +29,9 @@ Ao final, mostrar a média do aluno e indicar se o aluno foi aprovado ou reprova
 | Até 2000,00       | 10%           | De 7 a 10 anos   | R$300,00      |
 | Acima de 2000,00  | Sem ajuste    | Mais de 10 anos  | R$500,00      |
 
-<br></div>
+</div>
 
-10.Calcule as raízes da equaçãode 2º grau. Lembrando que:
+<br>10. Calcule as raízes da equaçãode 2º grau. Lembrando que:
 
 <div align="center"><br>
 
