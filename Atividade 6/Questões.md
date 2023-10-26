@@ -1,6 +1,7 @@
 1.Usando o comando switch, faça um algoritmo que leia o número de DDD e informe a qual cidade pertence, considerando só os seguintes valores: 
 
 <div align="center">
+  
   |        Estado       |  UF   | DDD   | 
   |  ------------------ | :---: | :---: | 
   | Brasília            | DF    | 61    | 
@@ -13,11 +14,22 @@
   | Belo Horizonte      | MG    | 31    | 
 
 </div>
+<br>Para qualquer DDD que não esteja listado, um texto indicando 'Cidade não identificada no Brasil' é enviado.<br>
 
-Para qualquer DDD que não esteja listado, um texto indicando 'Cidade não identificada no Brasil' é enviado.
 
-2.O cardápio de uma lanchonete é o seguinte: 
+<br>2. O cardápio de uma lanchonete é o seguinte: 
 
+<br><div align="center">
+  
+  |     Especificação     |  Preço Unitário  |
+  |  ------------------   |       :---:      |  
+  | 100 - Cachorro quente |      R$10,10     |  
+  | 101 - Bauru simple    |      R$8,30      |
+  | 102 - Bauro c/ovo     |      R$8,50      |  
+  | 103 - Hamburguer      |      R$12,50     |  
+  | 104 - Cheeseburguer   |      R$13,50     |
+
+<br></div>
 Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
 
 
