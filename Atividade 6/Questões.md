@@ -1,6 +1,6 @@
 ## Atividade Estrutura Switch
 
-1.Usando o comando switch, faça um algoritmo que leia o número de DDD e informe a qual cidade pertence, considerando só os seguintes valores: 
+<br>1. Usando o comando switch, faça um algoritmo que leia o número de DDD e informe a qual cidade pertence, considerando só os seguintes valores: 
 
 <div align="center">
   
@@ -33,7 +33,7 @@ Para qualquer DDD que não esteja listado, um texto indicando 'Cidade não ident
 <br></div>
 Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
 
-<br>3.Criar um algoritmo que informe a quantidade total de calorias de uma refeição a partir do usuário que deverá informar o prato, a sobremesa e a bebida (veja a tabela a seguir).
+<br>3. Criar um algoritmo que informe a quantidade total de calorias de uma refeição a partir do usuário que deverá informar o prato, a sobremesa e a bebida (veja a tabela a seguir).
 
 <br><div align="center">
   
