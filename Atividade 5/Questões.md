@@ -1,20 +1,23 @@
 # Continuação do Exercício Anterior
 
-6. Codifique um programa que lê um número inteiro. A seguir o programa deve imprimir uma mensagem para o usuário dizendo se o número digitado é par. Se o número não for par, o programa não deve fazer nada.
+6.Codifique um programa que lê um número inteiro. A seguir o programa deve imprimir uma mensagem para o usuário dizendo se o número digitado é par. Se o número não for par, o programa não deve fazer nada.
 
-7. Faça um algoritmo que calcule a media ponderada das notas de 3 provas. A primeira e  a segunda prova tem peso 1 e a terceira tem peso 2. Ao final, mostrar a média do aluno e indicar se o aluno foi aprovado ou reprovado. A nota para aprovação deve ser igual ou  superior a 7.0 pontos. 
 
-8. Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se  aposentar. As condições para aposentadoria são:
-   - Ter pelo menos 65 anos.
-   - Ou ter trabalhado pelo menos 30 anos.
-   - Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos. 
+<br>7.Faça um algoritmo que calcule a media ponderada das notas de 3 provas. A primeira e  a segunda prova tem peso 1 e a terceira tem peso 2.
+Ao final, mostrar a média do aluno e indicar se o aluno foi aprovado ou reprovado. A nota para aprovação deve ser igual ou  superior a 7,0 pontos. 
 
-9. Uma empresa decide dar um aumento aos seus funcionários de acordo com uma tabela que considera o salario atual e o tempo de serviço de cada funcionário. Os funcionários com menor salario terão um aumento proporcionalmente maior do que os funcionários  com um salario maior, e conforme o tempo de serviço na empresa, cada funcionário irá receber um bônus adicional de salário. Faça um programa que leia:
 
-   - o valor do salario atual do funcionário; 
-   - o tempo de serviço desse funcionário na empresa (número de anos de trabalho na empresa).
+<br>8.Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se  aposentar. As condições para aposentadoria são:
+   * Ter pelo menos 65 anos.
+   * Ou ter trabalhado pelo menos 30 anos.
+   * Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos. 
 
-Use as tabelas abaixo para calcular o salario reajustado deste funcionário e imprima o valor do salario final reajustado, ou uma mensagem caso o funcionário não tenha direito a nenhum aumento. 
+
+<br>9.Uma empresa decide dar um aumento aos seus funcionários de acordo com uma tabela que considera o salario atual e o tempo de serviço de cada funcionário. Os funcionários com menor salario terão um aumento proporcionalmente maior do que os funcionários  com um salario maior, e conforme o tempo de serviço na empresa, cada funcionário irá receber um bônus adicional de salário. Faça um programa que leia:
+   * o valor do salario atual do funcionário; 
+   * o tempo de serviço desse funcionário na empresa (número de anos de trabalho na empresa).
+
+<br>Use as tabelas abaixo para calcular o salario reajustado deste funcionário e imprima o valor do salario final reajustado, ou uma mensagem caso o funcionário não tenha direito a nenhum aumento. 
 
 <div align="center">
 
@@ -28,7 +31,7 @@ Use as tabelas abaixo para calcular o salario reajustado deste funcionário e im
 
 <br></div>
 
-10. Calcule as raízes da equaçãode 2º grau. Lembrando que:
+10.Calcule as raízes da equaçãode 2º grau. Lembrando que:
 
 <div align="center"><br>
 
