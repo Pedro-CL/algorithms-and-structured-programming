@@ -1,20 +1,24 @@
 ## Atividade Estrutura de Repetição
 
-1. Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem crescente. 
+<br>1. Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem crescente. 
 
-2. Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem decrescente. 
+<br>2. Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem decrescente. 
 
-3. Faça um programa que leia um número inteiro N e depois imprima os N primeiros números naturais ímpares (sem usar comando condicional). 
+<br>3. Faça um programa que leia um número inteiro N e depois imprima os N primeiros números naturais ímpares (sem usar comando condicional). 
 
-4. Faça um programa que determine e mostre os cinco primeiros múltiplos de 3 considerando números maiores que 0.
+<br>4. Faça um programa que determine e mostre os cinco primeiros múltiplos de 3 considerando números maiores que 0.
 
-5. Faça um programa que calcule e mostre a soma dos 50 primeiros números pares. 
+<br>5. Faça um programa que calcule e mostre a soma dos 50 primeiros números pares. 
 
-6. Elabore um algoritmo que permita ao usuário realizar a compra de frutas. Assim, apresente a lista de frutas disponíveis, abaixo, com seus respectivos valores. O algoritmo deve permitir ao usuário retomar o menu frutas quantas vezes quiser, e solicitar a quantidade de frutas. Ao final, apresente o valor total da compra. 
+<br>6. Elabore um algoritmo que permita ao usuário realizar a compra de frutas. Assim, apresente a lista de frutas disponíveis, abaixo, com seus respectivos valores. O algoritmo deve permitir ao usuário retomar o menu frutas quantas vezes quiser, e solicitar a quantidade de frutas. Ao final, apresente o valor total da compra. 
 
-1 => ABACAXI – 5,00 a unidade 2 => MAÇA – 1,00 a unidade 3 => PERA – 4,00 a unidade 
+   - 1 => ABACAXI – 5,00 a unidade 
+    
+   - 2 => MAÇA – 1,00 a unidade 
+    
+   - 3 => PERA – 4,00 a unidade 
 
-7. Uma pesquisa sobre algumas características físicas da população de uma determinada região coletou os seguintes dados, referentes a cada habitante:
+<br>7. Uma pesquisa sobre algumas características físicas da população de uma determinada região coletou os seguintes dados, referentes a cada habitante:
 
 a) sexo (m e f);
 
