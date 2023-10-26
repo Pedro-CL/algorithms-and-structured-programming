@@ -1,23 +1,20 @@
 1.Usando o comando switch, faça um algoritmo que leia o número de DDD e informe a qual cidade pertence, considerando só os seguintes valores: 
 
-(61) Brasília 
+<div align="center">
+  |        Estado       |  UF   | DDD   | 
+  |  ------------------ | :---: | :---: | 
+  | Brasília            | DF    | 61    | 
+  | Salvador            | BA    | 71    | 
+  | São Paulo           | SP    | 11    | 
+  | Rio de Janeiro      | RJ    | 21    | 
+  | Juiz de Fora        | MG    | 32    | 
+  | Campinas            | SP    | 19    | 
+  | Vitória             | ES    | 27    | 
+  | Belo Horizonte      | MG    | 31    | 
 
-71 - Salvador 
+</div>
 
-11 - São Paulo 
-
-21 - Rio de Janeiro 
-
-32 - Juiz de Fora 
-
-19 - Campinas 
-
-27 - Vitória 
-
-31 - Belo Horizonte 
-
-Qualquer outro - uma cidade no Brasil sem identificação 
-
+Para qualquer DDD que não esteja listado, um texto indicando 'Cidade não identificada no Brasil' é enviado.
 
 2.O cardápio de uma lanchonete é o seguinte: 
 
