@@ -52,7 +52,7 @@ void mostrarFinal() {
 
     do {
         printf("\n-----------------------------------------------------\n");
-        printf("\n               - CÁLCULO DO SALÁRIO                   \n");
+        printf("\n                CÁLCULO DO SALÁRIO                   \n");
         printf("\n-----------------------------------------------------\n");
 
         float salarioTotal = calcularSalario(lerQuantidade());
