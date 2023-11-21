@@ -14,5 +14,41 @@ a) `validaQuantidade` que validará o número de peças fabricadas por cada func
 
 b) `calculaSalario` que efetuará o cálculo do salário total para cada funcionário.
 
-<p1> #### OBS: </p1> O resultado **final** será mostrado ao usuário por meio de um procedimento ` mostrarFinal() `
+<br>
 
+> **Observação:**
+> O resultado **final** será mostrado ao usuário por meio de um procedimento ` mostrarFinal() `
+
+<br><br>
+
+## Questão-02
+
+Com a proposta para ampliação da terceirização da mão de obra, o Ministério da Fazenda está empenhado em elaborar uma análise sobre o recebimento de salário regular através do registro em carteira profissional dos funcionários no país.
+
+Elabore um algoritmo que obtenha, para cada assalariado, com carteira profissional assinada, o seu sexo M(masculino) e F(feminino) e o valor de seu salário, devendo este salário ser maior que um real (R$1,00).
+
+
+a) `classificaSalario` Sub-algoritmo que classifica o assalariado em relação ao salário mínimo nacional.
+
+Seu algoritmo deverá analisar e classificar este assalariado em:
+- '**A**cima',
+- '**I**gual' ou
+- '**A**baixo' do salário mínimo.
+
+Sabe-se que o salário mínimo nacional é de R$ 1400,00.
+
+b) `mostraClassifica`
+
+Sub-algoritmo que apresenta os resultados solicitados para cada assalariado.
+
+Após a leitura dos dados de cada assalariado cadastrado pelo ministério, deverá ser apresentado:
+- O salário em reais,
+- A classificação por extenso em relação ao salário mínimo (Acima, Igual ou Abaixo) e
+- O sexo por extenso (Masculino ou Feminino).
+
+<br>
+
+Você deverá fazer a entrada de dados para TODOS os assalariados que foram pesquisados pelo ministério, lembrando de fazer sempre a validação de todos os dados informados em **sub-algoritmos específicos**. ( na solução deste problema os resultados finais de cada assalariado que participou desta pesquisa deverão ser apresentados.)
+
+> **Observação:**
+> Após a leitura dos dados de todos os assalariados pesquisados, o algoritmo deverá apresentar a quantidade de assalariados com salário abaixo do salário mínimo e a quantidade assalariados com salário acima do salário mínimo.
