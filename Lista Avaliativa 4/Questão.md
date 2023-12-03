@@ -2,20 +2,21 @@
 
 Para o controle dos veículos que circulam em uma determinada cidade, a Secretaria dos Transportes criou o seguinte registro padrão:
 <br><br>
+```
+                              Proprietário: __________________________ Combustível: ____________________
+                              
+                              Modelo: ________________________________ Cor: ____________________________
+                              
+                              Nº chassi: _____________________________ Ano: ________ Placa: ____________
 
-Proprietário: __________________________ Combustível: ____________________
-
-Modelo: ______________________________ Cor: ______________________________
-
-Nº chassi: ___________________________ Ano: _________ Placa: _______________
-<br><br>
+```
+<br>
 
 Em que:
 
    - Combustível pode ser: álcool, diesel ou gasolina;
    
-   - Placa possui os três primeiros valores alfabéticos e os quatro restantes valores numéricos.
-     
+   - Placa possui os três primeiros valores alfabéticos e os quatro restantes valores numéricos
    <br><br>
 
 Sabendo que não temos uma definição do número máximo de veículos da cidade e que ***é preciso armazenar todos os valores em uma lista encadeada simples***, construa:
