@@ -4,7 +4,6 @@ Este é o meu espaço de aprendizado onde acompanho o meu progresso e compartilh
 
 ## O que você encontrará aqui
 
-- 📝 Notas de aula.
 - 💻 Exercícios práticos.
 
 ## Objetivos
